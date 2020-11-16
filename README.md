@@ -14,7 +14,7 @@
 - Видео: [Обзор проектов на Cosmos, ончейн аналитика, погружение в Tendermint](https://www.youtube.com/watch?v=NZd3UUUWIpw)
 - Статья: [(Ре)Делегирование в Cosmos Hub](https://medium.com/cosmos-russia/%D1%80%D0%B5-%D0%B4%D0%B5%D0%BB%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-cosmos-hub-52cacbcb26f6)
 - Статья: [Cosmos Network: как стать валидатором в интернете блокчейнов](https://decenter.org/ru/cosmos-network-kak-stat-validatorom-v-internete-blokcheynov)
-- Статья: [Криптовалюта Cosmos [ATOM: подробный обзор 2019](https://ruscoins.info/crypto-currency/cosmos/)
+- Статья: [Криптовалюта Cosmos ATOM: подробный обзор 2019](https://ruscoins.info/crypto-currency/cosmos/)
 - Видео: [Экономика PoS Cosmos Hub](https://www.youtube.com/watch?v=qvc8ELSVdpc)
 
 ### Экспертные
