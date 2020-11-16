@@ -18,10 +18,12 @@
 - Видео: [Экономика PoS Cosmos Hub](https://www.youtube.com/watch?v=qvc8ELSVdpc)
 
 ### Экспертные
+- Документация: [Обзор дизайна Cosmos SDK](https://docs.cosmos.network/master/ru/intro/sdk-design.html)
 - Видео: [Архитектура Cosmos и Tendermint, как запустить приложение на Cosmos-SDK, стейкинг](https://www.youtube.com/watch?v=GkuH7VqzgFA)
 - Видео: [Что такое Starport и как запустить свое приложение](https://www.youtube.com/watch?v=kRJAbS-xgBQ)
 - Видео: [Быстрое развертывание BFT-блокчейна с Tendermint](https://www.youtube.com/watch?v=Qa5dYhe0wp4)
 - Видео: [Разработка корпоративных блокчейнов на платформе Tendermint](https://www.youtube.com/watch?v=lOms16YzCD0)
+- Подкаст: [Антон Каляев (Cosmos) о Tendermint и интернете блокчейнов](https://podcasts.apple.com/us/podcast/%D0%B1%D0%B1-068-%D0%B0%D0%BD%D1%82%D0%BE%D0%BD-%D0%BA%D0%B0%D0%BB%D1%8F%D0%B5%D0%B2-cosmos-%D0%BE-tendermint-%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B5/id1289965366?i=1000434929239&l=da)
 
 ### Проекты экосистемы
 
