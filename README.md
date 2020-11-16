@@ -17,9 +17,6 @@
 - Статья: [Криптовалюта Cosmos [ATOM: подробный обзор 2019](https://ruscoins.info/crypto-currency/cosmos/)
 - Видео: [Экономика PoS Cosmos Hub](https://www.youtube.com/watch?v=qvc8ELSVdpc)
 
-Источник: https://ruscoins.info/crypto-currency/cosmos/
-© Авторство контента на RusCoins.info защищено службами Яндекс.Тексты и DMCA. Поэтому во избежание понижения вашего рейтинга в поисковых системах, ссылка на источник обязательна.]()
-
 ### Экспертные
 - Видео: [Архитектура Cosmos и Tendermint, как запустить приложение на Cosmos-SDK, стейкинг](https://www.youtube.com/watch?v=GkuH7VqzgFA)
 - Видео: [Что такое Starport и как запустить свое приложение](https://www.youtube.com/watch?v=kRJAbS-xgBQ)
