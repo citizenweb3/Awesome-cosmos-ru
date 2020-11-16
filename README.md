@@ -2,7 +2,7 @@
 
 Сборник ссылок об экосистеме Cosmos на Русском языке
 
-### Полезные
+### Сообщество
 - [Cosmos Rus](https://twitter.com/cosmos_rus): Twitter акаунт про Cosmos на Русском
 - [Cosmos Rus news](https://t.me/cosmosinrussian): RU Телеграм новостной канал
 - [Cosmos Rus](https://t.me/CosmosprojectRu): RU Телеграм чат
