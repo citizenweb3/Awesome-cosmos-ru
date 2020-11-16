@@ -21,15 +21,15 @@
 
 ### Проекты экосистемы
 
-#### [Cyber](https://cyber.page/):
+##### [Cyber](https://cyber.page/):
 - Видео: [Как поднять ноду Cyber](https://www.youtube.com/watch?v=f6CTDj7cPGY) 
 - Русское коммьнити Cyber [в Телеграм](https://t.me/cyber_russian_community)
 
-### [Kava](https://www.kava.io/):
+##### [Kava](https://www.kava.io/):
 - Статья: [Всё, что вам нужно знать о Kava, Harvest и стейкинге. Простое объяснение и инструкция](https://antropocosmist.medium.com/%D0%B2%D1%81%D1%91-%D1%87%D1%82%D0%BE-%D0%B2%D0%B0%D0%BC-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BE-kava-harvest-%D0%B8-%D1%81%D1%82%D0%B5%D0%B9%D0%BA%D0%B8%D0%BD%D0%B3%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B5-%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-5b1e2388c692)
 - Статья: [Как проголосовать за предложение в KAVA всего в 8 кликов](https://antropocosmist.medium.com/%D0%BA%D0%B0%D0%BA-%D0%BF%D1%80%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B7%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-kava-%D0%B2%D1%81%D0%B5%D0%B3%D0%BE-%D0%B2-8-%D0%BA%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2-645ec4f7c5e0)
 - Статья: [Представляем Harvest.io - первый в мире межсетевой денежный рынок](https://antropocosmist.medium.com/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-harvest-io-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%B2-%D0%BC%D0%B8%D1%80%D0%B5-%D0%BC%D0%B5%D0%B6%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9-%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9-%D1%80%D1%8B%D0%BD%D0%BE%D0%BA-1049c8401f4b)
 
-#### [Secret Network](https://scrt.network/):
+##### [Secret Network](https://scrt.network/):
 - Статья [Как активировать и создать секретные токены sSCRT в кошельке Kepler](https://antropocosmist.medium.com/%D0%BA%D0%B0%D0%BA-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D0%B5-%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D1%8B-sscrt-%D0%B2-%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D1%8C%D0%BA%D0%B5-kepler-e0692c2baefd)
 
