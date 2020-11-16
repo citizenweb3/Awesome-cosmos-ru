@@ -1,17 +1,17 @@
 # Awesome Cosmos RU
 
-Экосистема Cosmos: полезные RU ссылки 
+Экосистема Cosmos: полезные RU ссылки
 
 ### Сообщество
-- [Cosmos Rus](https://twitter.com/cosmos_rus): RU Twitter акаунт о новостях Cosmos 
+- [Cosmos Rus](https://twitter.com/cosmos_rus): RU Twitter аккаунт о новостях Cosmos
 - [Cosmos Rus news](https://t.me/cosmosinrussian): RU Телеграм новостной канал
 - [Cosmos Rus](https://t.me/CosmosprojectRu): RU Телеграм чат
-- [Cosmos Moscow](https://www.meetup.com/Cosmos-Moscow/): RU Онлайн меропритяия + коммьюнити коллы 
+- [Cosmos Moscow](https://www.meetup.com/Cosmos-Moscow/): RU Онлайн мероприятия + комьюнити коллы
 
 ### Вступительные
 - Статья: [Cosmos FAQ(ру версия)](https://medium.com/cosmos-russia/cosmos-faq-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-9bf6c76573d1)
 - Статья: [Коротко о Tendermint и Cosmos Network](https://medium.com/cosmos-russia/%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE-%D0%BE-tendermint-%D0%B8-cosmos-network-f447789b7e45)
-- Видео: [Обзор проектов на Cosmos, ончейн аналитика, погружение в Tendermint](https://www.youtube.com/watch?v=NZd3UUUWIpw)
+- Видео: [Обзор проектов на Cosmos | Он-чейн аналитика | Погружение в Tendermint](https://www.youtube.com/watch?v=NZd3UUUWIpw)
 - Статья: [(Ре)Делегирование в Cosmos Hub](https://medium.com/cosmos-russia/%D1%80%D0%B5-%D0%B4%D0%B5%D0%BB%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-cosmos-hub-52cacbcb26f6)
 - Статья: [Cosmos Network: как стать валидатором в интернете блокчейнов](https://decenter.org/ru/cosmos-network-kak-stat-validatorom-v-internete-blokcheynov)
 - Статья: [Криптовалюта Cosmos ATOM: подробный обзор 2019](https://ruscoins.info/crypto-currency/cosmos/)
@@ -19,7 +19,7 @@
 
 ### Экспертные
 - Документация: [Обзор дизайна Cosmos SDK](https://docs.cosmos.network/master/ru/intro/sdk-design.html)
-- Видео: [Архитектура Cosmos и Tendermint, как запустить приложение на Cosmos-SDK, стейкинг](https://www.youtube.com/watch?v=GkuH7VqzgFA)
+- Видео: [Архитектура Cosmos и Tendermint | Как запустить приложение на Cosmos-SDK | Cтейкинг](https://www.youtube.com/watch?v=GkuH7VqzgFA)
 - Видео: [Что такое Starport и как запустить свое приложение](https://www.youtube.com/watch?v=kRJAbS-xgBQ)
 - Видео: [Быстрое развертывание BFT-блокчейна с Tendermint](https://www.youtube.com/watch?v=Qa5dYhe0wp4)
 - Видео: [Разработка корпоративных блокчейнов на платформе Tendermint](https://www.youtube.com/watch?v=lOms16YzCD0)
@@ -33,7 +33,7 @@
 ##### [Cyber](https://cyber.page/):
 - Русскоговорящий чат Cyber [в Телеграм](https://t.me/cyber_russian_community)
 - Forklog hub: [О проекте Cyber](https://hub.forklog.com/companies/cyber/)
-- Видео: [Как поднять ноду Cyber](https://www.youtube.com/watch?v=f6CTDj7cPGY) 
+- Видео: [Как поднять ноду Cyber](https://www.youtube.com/watch?v=f6CTDj7cPGY)
 
 ##### [Kava](https://www.kava.io/):
 - Статья: [Всё, что вам нужно знать о Kava, Harvest и стейкинге. Простое объяснение и инструкция](https://antropocosmist.medium.com/%D0%B2%D1%81%D1%91-%D1%87%D1%82%D0%BE-%D0%B2%D0%B0%D0%BC-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BE-kava-harvest-%D0%B8-%D1%81%D1%82%D0%B5%D0%B9%D0%BA%D0%B8%D0%BD%D0%B3%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B5-%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F-5b1e2388c692)
