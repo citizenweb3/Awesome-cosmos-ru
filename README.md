@@ -9,7 +9,7 @@
 - [Cosmos Moscow](https://www.meetup.com/Cosmos-Moscow/): RU Онлайн меропритяия + коммьюнити коллы 
 
 ### Вступительные
-- Статья: [Cosmos FAQ(русская версия)](https://medium.com/cosmos-russia/cosmos-faq-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-9bf6c76573d1)
+- Статья: [Cosmos FAQ(ру версия)](https://medium.com/cosmos-russia/cosmos-faq-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B0%D1%8F-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-9bf6c76573d1)
 - Статья: [Коротко о Tendermint и Cosmos Network](https://medium.com/cosmos-russia/%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE-%D0%BE-tendermint-%D0%B8-cosmos-network-f447789b7e45)
 - Видео: [Обзор проектов на Cosmos, ончейн аналитика, погружение в Tendermint](https://www.youtube.com/watch?v=NZd3UUUWIpw)
 - Статья: [(Ре)Делегирование в Cosmos Hub](https://medium.com/cosmos-russia/%D1%80%D0%B5-%D0%B4%D0%B5%D0%BB%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-cosmos-hub-52cacbcb26f6)
