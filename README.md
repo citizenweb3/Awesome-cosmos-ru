@@ -1,6 +1,6 @@
 # Awesome Cosmos RU
 
-Полезные RU ссылки об экосистеме Cosmos
+Экосистема Cosmos: полезные RU ссылки 
 
 ### Сообщество
 - [Cosmos Rus](https://twitter.com/cosmos_rus): RU Twitter акаунт о новостях Cosmos 
