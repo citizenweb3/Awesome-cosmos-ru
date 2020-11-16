@@ -13,6 +13,11 @@
 - Статья: [Коротко о Tendermint и Cosmos Network](https://medium.com/cosmos-russia/%D0%BA%D0%BE%D1%80%D0%BE%D1%82%D0%BA%D0%BE-%D0%BE-tendermint-%D0%B8-cosmos-network-f447789b7e45)
 - Видео: [Обзор проектов на Cosmos, ончейн аналитика, погружение в Tendermint](https://www.youtube.com/watch?v=NZd3UUUWIpw)
 - Статья: [(Ре)Делегирование в Cosmos Hub](https://medium.com/cosmos-russia/%D1%80%D0%B5-%D0%B4%D0%B5%D0%BB%D0%B5%D0%B3%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-cosmos-hub-52cacbcb26f6)
+- Статья: [Cosmos Network: как стать валидатором в интернете блокчейнов](https://decenter.org/ru/cosmos-network-kak-stat-validatorom-v-internete-blokcheynov)
+- Статья: [Криптовалюта Cosmos [ATOM: подробный обзор 2019](https://ruscoins.info/crypto-currency/cosmos/)
+
+Источник: https://ruscoins.info/crypto-currency/cosmos/
+© Авторство контента на RusCoins.info защищено службами Яндекс.Тексты и DMCA. Поэтому во избежание понижения вашего рейтинга в поисковых системах, ссылка на источник обязательна.]()
 
 ### Экспертные
 - Видео: [Архитектура Cosmos и Tendermint, как запустить приложение на Cosmos-SDK, стейкинг](https://www.youtube.com/watch?v=GkuH7VqzgFA)
@@ -31,5 +36,5 @@
 - Статья: [Представляем Harvest.io - первый в мире межсетевой денежный рынок](https://antropocosmist.medium.com/%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC-harvest-io-%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9-%D0%B2-%D0%BC%D0%B8%D1%80%D0%B5-%D0%BC%D0%B5%D0%B6%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B9-%D0%B4%D0%B5%D0%BD%D0%B5%D0%B6%D0%BD%D1%8B%D0%B9-%D1%80%D1%8B%D0%BD%D0%BE%D0%BA-1049c8401f4b)
 
 ##### [Secret Network](https://scrt.network/):
-- Статья [Как активировать и создать секретные токены sSCRT в кошельке Kepler](https://antropocosmist.medium.com/%D0%BA%D0%B0%D0%BA-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D0%B5-%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D1%8B-sscrt-%D0%B2-%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D1%8C%D0%BA%D0%B5-kepler-e0692c2baefd)
+- Статья: [Как активировать и создать секретные токены sSCRT в кошельке Kepler](https://antropocosmist.medium.com/%D0%BA%D0%B0%D0%BA-%D0%B0%D0%BA%D1%82%D0%B8%D0%B2%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D1%81%D0%B5%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D1%8B%D0%B5-%D1%82%D0%BE%D0%BA%D0%B5%D0%BD%D1%8B-sscrt-%D0%B2-%D0%BA%D0%BE%D1%88%D0%B5%D0%BB%D1%8C%D0%BA%D0%B5-kepler-e0692c2baefd)
 
