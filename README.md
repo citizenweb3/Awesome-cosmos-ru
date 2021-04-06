@@ -25,6 +25,10 @@
 - Видео: [Разработка корпоративных блокчейнов на платформе Tendermint](https://www.youtube.com/watch?v=lOms16YzCD0)
 - Подкаст: [Антон Каляев (Cosmos) о Tendermint и интернете блокчейнов](https://podcasts.apple.com/us/podcast/%D0%B1%D0%B1-068-%D0%B0%D0%BD%D1%82%D0%BE%D0%BD-%D0%BA%D0%B0%D0%BB%D1%8F%D0%B5%D0%B2-cosmos-%D0%BE-tendermint-%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B5/id1289965366?i=1000434929239&l=da)
 
+### HackAtom Ru 2021
+- Переводы документации: [1](), [2]()
+- Презентации: 
+
 ### Проекты экосистемы
 
 ##### [Cosmostation](https://www.cosmostation.io/):
